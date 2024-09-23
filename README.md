@@ -1,13 +1,6 @@
-# Casts for Laravel
+# ⚠️ This package has been archived in favor of FluxUI: https://fluxui.dev. Feel free to continue to use this package until you can transition, but it will no longer receive updates.
 
-[![Join the chat at https://gitter.im/GeneaLabs/laravel-casts](https://badges.gitter.im/GeneaLabs/laravel-casts.svg)](https://gitter.im/GeneaLabs/laravel-casts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Travis](https://img.shields.io/travis/GeneaLabs/laravel-casts.svg)](https://travis-ci.org/GeneaLabs/laravel-casts)
-[![SensioLabs Insight](https://img.shields.io/sensiolabs/i/e67916ac-4439-45f6-809f-ca48f8f55758.svg)](https://insight.sensiolabs.com/projects/e67916ac-4439-45f6-809f-ca48f8f55758)
-[![Scrutinizer](https://img.shields.io/scrutinizer/g/GeneaLabs/laravel-casts.svg)](https://scrutinizer-ci.com/g/GeneaLabs/laravel-casts)
-[![Coveralls](https://img.shields.io/coveralls/GeneaLabs/laravel-casts.svg)](https://coveralls.io/github/GeneaLabs/laravel-casts)
-[![GitHub (pre-)release](https://img.shields.io/github/release/GeneaLabs/laravel-casts/all.svg)](https://github.com/GeneaLabs/laravel-casts)
-[![Packagist](https://img.shields.io/packagist/dt/GeneaLabs/laravel-casts.svg)](https://packagist.org/packages/genealabs/laravel-casts)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/GeneaLabs/laravel-casts/master/LICENSE)
+# Casts for Laravel
 
 ![Casts for Laravel masthead image.](https://repository-images.githubusercontent.com/54227416/9eab2600-f1b2-11e9-9aa3-2da687ef463c)
 
